@@ -15,6 +15,6 @@ void main(){
   print('Llamando a la funcion saludar');
   saludar();
   print('Llamando a la funcion escribeNombre');
-  escribeNombre();
+  escribeNombre(); 
 
 }
