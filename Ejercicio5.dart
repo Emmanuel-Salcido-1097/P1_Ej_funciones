@@ -3,6 +3,10 @@ import 'dart:io';
 // Función para capturar datos de la lista
 List<String> capturarDatos() {
   List<String> listaCadenas = [];
+  
+  // Emmanuel Salcido Ortega Mat:22308051281097
+  print('Emmanuel Salcido Ortega Mat:22308051281097');
+
   print("Ingrese las cadenas (escriba 'fin' para terminar):");
 
   while (true) {
@@ -24,8 +28,7 @@ List<String> convertirAMayusculas(List<String> listaCadenas) {
 // Función para mostrar los elementos de ambas listas
 void mostrarElementos(List<String> listaOriginal, List<String> listaConvertida) {
 
-  // Emmanuel Salcido Ortega Mat:22308051281097
-  print('Emmanuel Salcido Ortega Mat:22308051281097');
+  
 
   print("\nLista original:");
   for (int i = 0; i < listaOriginal.length; i++) {
